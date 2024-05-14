@@ -13,7 +13,7 @@
   <img align="center" alt="Node.js" src = "https://img.shields.io/badge/Node.js-218918?style=for-the-badge&logo=node.js&logoColor=black" />
     <img align="center" alt="Html.5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img align="center" alt="Css" src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-            <img align="center" alt="SqLite" src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+            <img align="center" alt="SqLite" src = "https://img.shields.io/badge/SQLite-09425F?style=for-the-badge&logo=sqlite&logoColor=white" />
 
   
 
