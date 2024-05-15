@@ -3,8 +3,8 @@
 [![Social](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=DmwnWrRttFvVSnGQJqgsnXSxzwLxnKdtGZzMmPfCbJvvqxZbkGJmQCknwjJdrDsFhxlcljgkSXDb)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jl.gradwool/)
 
-![João Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLuizGL&show_icons=true&theme=transparent)
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsbispo&layout=compact&langs_count=7&theme=tokyonight"/> -->
+![João Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLuizGL&show_icons=true&theme=midnight-purple)
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsbispo&layout=compact&langs_count=7&theme=gotham"/> -->
 
 ### Minhas linguagens e tecnologias: 
 <div style = "display: inline_block"><br/>
