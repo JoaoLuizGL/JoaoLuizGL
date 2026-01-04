@@ -1,21 +1,56 @@
-### Olá, sou o João Luiz! 💯
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoluizglira/)
-[![Social](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=DmwnWrRttFvVSnGQJqgsnXSxzwLxnKdtGZzMmPfCbJvvqxZbkGJmQCknwjJdrDsFhxlcljgkSXDb)
-[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jl.gradwool/)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0F172A&text=João%20Luiz%20Lira&fontSize=50&fontColor=ffffff&fontAlignY=40"/>
 
-![João Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLuizGL&show_icons=true&theme=midnight-purple)
- <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLuizGL&layout=compact&langs_count=7&theme=midnight-purple"/> <!-- theme=gotham -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38BDF8&size=32&center=true&vCenter=true&width=1000&lines=Hello!+I'm+João+Luiz+Lira.;Software+Developer.;Building+solutions+that+solve+real+problems.)](https://git.io/typing-svg)
 
-### Minhas linguagens e tecnologias: 
-<div style = "display: inline_block"><br/>
-  <img align="center" alt="C#" src = "https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c#&logoColor=white" />
-  <img align="center" alt=".Net" src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img align="center" alt="Node.js" src = "https://img.shields.io/badge/Node.js-218918?style=for-the-badge&logo=node.js&logoColor=black" />
-  <img align="center" alt="JavaScript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="TypeScript" src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-58C4DC?logo=react&logoColor=black&style=for-the-badge" />
-  <img align="center" alt="Html.5" src = "https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="Css" src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="SqLite" src = "https://img.shields.io/badge/SQLite-09425F?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img align="center" alt="MySQL" src = "https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black" />
+---
+
+## 👋 About Me
+
+I'm a **Software Developer** focused on building scalable and practical solutions.  
+I enjoy working across **fullstack development**, always aiming for clean code, performance and real-world impact.
+
+- 💻 Currently working on personal and professional projects  
+- 🚀 Interested in collaborating on meaningful products  
+- 📚 Constantly learning and improving my skills
+
+---
+
+## 🧩 Tech Stack
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,java,python,django" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,bootstrap,tailwind" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongodb,firebase,redis,supabase,sqlserver" />
+
+---
+
+## 📊 GitHub Stats
+
+<div align = "center">
+<img heigth=170 src="https://github-readme-stats-swart-rho.vercel.app/api?username=JoaoLuizGL&show_icons=true&theme=prussian&include_all_commits=true" alt="JoaoLuizGL">
+<img heigth=170 src="https://github-readme-stats-swart-rho.vercel.app/api/top-langs/?username=JoaoLuizGL&show_icons=true&theme=prussian&layout=compact" alt="JoaoLuizGL"/>
 </div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://instagram.com/jl.gradwool" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:joaoluiz.glira@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/joaoluizglira" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0F172A&section=footer"/>
